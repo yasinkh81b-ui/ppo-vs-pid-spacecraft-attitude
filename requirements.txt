@@ -1,0 +1,5 @@
+numpy==2.5.1
+matplotlib
+gymnasium==1.4.0
+stable-baselines3==2.9.0
+torch==2.14.1
